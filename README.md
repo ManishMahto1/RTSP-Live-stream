@@ -1,3 +1,8 @@
+![app Screenshot](/public/screenshot1.jpeg)
+![app Screenshot](/public/screenshot2.jpeg)
+
+
+
 # RTSP Livestream  Application
 
 A full-stack web application for streaming RTSP video with customizable overlays.
@@ -22,7 +27,10 @@ A full-stack web application for streaming RTSP video with customizable overlays
 ## Quick Start
 
 ### 1. Install Dependencies
+
 ```bash
+git clone https://github.com/ManishMahto1/RTSP-Live-stream
+
 cd backend && npm install
 cd ../frontend && npm install
 ```
