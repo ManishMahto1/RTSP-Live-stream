@@ -1,5 +1,5 @@
-![app Screenshot](/public/screenshot1.jpeg)
-![app Screenshot](/public/screenshot2.jpeg)
+![app Screenshot](/public/screenshot1.png)
+![app Screenshot](/public/screenshot2.png)
 
 
 
